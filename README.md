@@ -22,10 +22,10 @@ Building a Full Stack Ecommerce Project using cutting-edge technologies.
   1) Setting up CORS (Cross-Origin Resource Sharing) for API requests.
   2) Handling data exchange between the frontend and backend.
 
-*  Deployment and Hosting:
+* Deployment and Hosting:
   1) Preparing your project for production.
   2) Deploying the Ecommerce website to a hosting service.
 
-* payment gateway and other features:
+* Payment gateway and other features:
   1) Integrating payment gateways for real transactions.
   2) Implementing advanced features like user reviews and recommendations.
