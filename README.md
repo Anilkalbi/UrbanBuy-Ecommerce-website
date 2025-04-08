@@ -1,4 +1,4 @@
-# UrbanBuy
+# UrbanBuy - Ecommerce website
 Building a Full Stack Ecommerce Project using cutting-edge technologies.
 
 * Backend Development with Spring Boot:
